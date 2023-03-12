@@ -1,0 +1,13 @@
+body{
+  background-color: #eff6f2;
+}
+#goofball{
+  background-color: #2e605c;
+  height: 300px;
+  aspect-ratio: 1;
+  position: absolute;
+  left:50%;
+  top:50%;
+  translate: -50% -50%;
+  
+}
